@@ -1,4 +1,4 @@
-<h1 align="center">Assalam-U-Walaikum Hi 👋, I'm Aliyan Khan</h1>
+<h1 align="center"> hello I'm Dhruv kumar</h1>
 <!-- <h3 align="center">A passionate front end developer from Pakistan</h3> -->
 
 <div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=600&color=151CF7&center=true&vCenter=true&width=435&lines='Front+End+Web+And+App+Developer'+;'Web+Designer'+;" alt="Typing SVG" /></div>
