@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, code problems**
 
-- 📫 How to reach me **alyanwasim81@gmail.com**
+- 📫 How to reach me **dhruvkumargoyal9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
